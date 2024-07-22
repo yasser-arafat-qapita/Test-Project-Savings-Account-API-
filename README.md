@@ -19,12 +19,14 @@ Sample
 
 
 ### MongoDB Projected Data ("TestBank"):
+MongoDB stores only the latest account balance.
 
 ![image](https://github.com/user-attachments/assets/533d0eb9-4f6d-4928-9b87-b174b1d7b3cd)
 
 
 ### EventStore : 
-Each Account in the Savings Account is an EventStore Stream using the unique account_id
+Each Account in the Savings Account is an EventStore Stream using the unique account_id.
+Each EventStore stream stores the account's different transactions.
 
 ![image](https://github.com/user-attachments/assets/5824ceca-4bfc-41ea-ad5d-6d157cf36689)
 
