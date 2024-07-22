@@ -1,0 +1,12 @@
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/bin/Debug/net7.0/Domain.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/bin/Debug/net7.0/Domain.pdb
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/Domain.pdb
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Domain/obj/Debug/net7.0/ref/Domain.dll

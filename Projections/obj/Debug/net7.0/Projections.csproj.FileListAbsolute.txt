@@ -1,0 +1,17 @@
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.csproj.AssemblyReference.cache
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.AssemblyInfoInputs.cache
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.AssemblyInfo.cs
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.csproj.CoreCompileInputs.cache
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Projections.deps.json
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Projections.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Projections.pdb
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Domain.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Infrastructure.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Domain.pdb
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/bin/Debug/net7.0/Infrastructure.pdb
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.csproj.CopyComplete
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/refint/Projections.dll
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/Projections.pdb
+/home/yasserarafat/RiderProjects/SavingsAccountAPITest/Projections/obj/Debug/net7.0/ref/Projections.dll

@@ -1,0 +1,45 @@
+﻿2024-07-22 14:54:08.118 INFO  Logging to '/home/yasserarafat/RiderProjects/SavingsAccountAPITest/WebApi/bin/Debug/net7.0/' with level Info
+2024-07-22 14:54:08.211 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-06'.
+2024-07-22 14:54:08.212 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 14:54:08.213 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 14:54:08.693 FATAL Receiver Main failed to start.
+System.UnauthorizedAccessException: Access to the path '/home/yassera' is denied.
+ ---> System.IO.IOException: Permission denied
+   --- End of inner exception stack trace ---
+   at System.IO.FileSystem.CreateParentsAndDirectory(String fullPath, UnixFileMode unixCreateMode)
+   at System.IO.FileSystem.CreateDirectory(String fullPath, UnixFileMode unixCreateMode)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NServiceBus.LearningTransportMessagePump.EnsureDirectoriesExists() in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 112
+   at NServiceBus.LearningTransportMessagePump.Start(PushRuntimeSettings limitations) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 60
+   at NServiceBus.TransportReceiver.Start() in /_/src/NServiceBus.Core/Transports/TransportReceiver.cs:line 140
+   at NServiceBus.ReceiveComponent.Start() in /_/src/NServiceBus.Core/Receiving/ReceiveComponent.cs:line 203
+2024-07-22 14:55:11.318 INFO  Logging to '/home/yasserarafat/RiderProjects/SavingsAccountAPITest/WebApi/bin/Debug/net7.0/' with level Info
+2024-07-22 14:55:11.378 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-06'.
+2024-07-22 14:55:11.380 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 14:55:11.380 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:12:36.727 INFO  Initiating shutdown.
+2024-07-22 15:12:36.766 INFO  Shutdown complete.
+2024-07-22 15:12:42.742 INFO  Logging to '/home/yasserarafat/RiderProjects/SavingsAccountAPITest/WebApi/bin/Debug/net7.0/' with level Info
+2024-07-22 15:12:42.808 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-06'.
+2024-07-22 15:12:42.809 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:12:42.809 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:17:46.597 INFO  Initiating shutdown.
+2024-07-22 15:17:46.636 INFO  Shutdown complete.
+2024-07-22 15:17:51.443 INFO  Logging to '/home/yasserarafat/RiderProjects/SavingsAccountAPITest/WebApi/bin/Debug/net7.0/' with level Info
+2024-07-22 15:17:51.552 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-06'.
+2024-07-22 15:17:51.553 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:17:51.554 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:19:17.978 INFO  Initiating shutdown.
+2024-07-22 15:19:18.020 INFO  Shutdown complete.
+2024-07-22 15:19:22.470 INFO  Logging to '/home/yasserarafat/RiderProjects/SavingsAccountAPITest/WebApi/bin/Debug/net7.0/' with level Info
+2024-07-22 15:19:22.538 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-06'.
+2024-07-22 15:19:22.539 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:19:22.540 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:20:25.539 INFO  Initiating shutdown.
+2024-07-22 15:20:25.568 INFO  Shutdown complete.
+2024-07-22 15:20:30.251 INFO  Logging to '/home/yasserarafat/RiderProjects/SavingsAccountAPITest/WebApi/bin/Debug/net7.0/' with level Info
+2024-07-22 15:20:30.328 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-06'.
+2024-07-22 15:20:30.329 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:20:30.330 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=linux
+2024-07-22 15:22:07.481 INFO  Initiating shutdown.
+2024-07-22 15:22:07.515 INFO  Shutdown complete.
