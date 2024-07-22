@@ -22,7 +22,10 @@ public class Program
             var endpointConfiguration = new EndpointConfiguration("SavingsAccountBus");
             endpointConfiguration.UseSerialization<NewtonsoftJsonSerializer>();
             var transport = endpointConfiguration.UseTransport<LearningTransport>();
-            transport.StorageDirectory("/home/yasserarafat/ldt");
+            
+            string username = Environment.UserName;
+            string storageDirectory = $"/home/{username}/ldt";
+            transport.StorageDirectory(storageDirectory);
             
             Log.Information("Starting up the web host");
             
